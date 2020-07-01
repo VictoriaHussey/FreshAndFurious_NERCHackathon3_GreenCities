@@ -80,3 +80,4 @@ Luke Lear, _University of Exeter_
 
 
 
+![Banner](https://github.com/VictoriaHussey/FreshAndFurious_NERCHackathon3_GreenCities/blob/master/Images/20200701_Banner_GW4_1000x84.png)
