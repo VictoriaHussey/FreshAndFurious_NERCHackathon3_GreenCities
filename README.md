@@ -50,8 +50,7 @@ health risk at the same time?
 </p>
 
 # Meet the Team
-
-![FRESH Logo](images/FRESH Logo.jpg)
+![FRESH Logo](https://github.com/VictoriaHussey/FreshAndFurious_NERCHackathon3_GreenCities/blob/master/Images/FRESH%20Logo.jpg)
 
 The team comprises of 10 PhD researchers based across the GW4+ institutions. All team members are GW4+ FRESH CDT PhD researchers, from cohort 1 of the CDT. 
 
