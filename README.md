@@ -12,22 +12,12 @@ This repository is Fresh and Furious' entry to the NERC COVID-19 Hackathon 3: Ec
 # Introduction
 
 <p align="justify">
-The 2020 COVID-19 pandemic had caused countries across the world to implement unprecendented measures of social distancing to reduce the rate of transmission of 
-COVID-19. Such measures include school closures and national or regional lockdowns to urge people to stay at home to reduce the amount of physical contact people
-have on a day-to-day basis. This is widely regarded as one of the most effective ways to reduce the transmission of COVID-19 (Gu et al., 2020). Social distancing
-has disrupted the lives of entire populations (Caria et al., 2020), impacting on the mental wellbeing of many people, especially among those living in densely-populated
-urban settings with limited green public spaces.
-The urban environment holds great influence over health, both directly and indirectly, through its impact on health-related behaviours (Bixby et al., 2015). The 
-increase in chronic disease risk factors, for example, has been linked with urban living due to changing socio-economic, lifestyle and environmental factors 
-(Allender et al., 2011). For this reason, disease prevention strategies that target the environment rather than individuals have gained support over recent years 
-(Department of Health, 2004 & 2011).
+The 2020 COVID-19 pandemic had caused countries across the world to implement unprecendented measures of social distancing to reduce the rate of transmission of COVID-19. Such measures include school closures and national or regional lockdowns to urge people to stay at home to reduce the amount of physical contact people have on a day-to-day basis. This is widely regarded as one of the most effective ways to reduce the transmission of COVID-19 (Gu et al., 2020). Social distancing has disrupted the lives of entire populations (Caria et al., 2020), impacting on the mental wellbeing of many people, especially among those living in densely-populated urban settings with limited green public spaces.
+The urban environment holds great influence over health, both directly and indirectly, through its impact on health-related behaviours (Bixby et al., 2015). The increase in chronic disease risk factors, for example, has been linked with urban living due to changing socio-economic, lifestyle and environmental factors (Allender et al., 2011). For this reason, disease prevention strategies that target the environment rather than individuals have gained support over recent years (Department of Health, 2004 & 2011).
 </p>
 
 <p align="justify">
-Urban greenspace has been proven effetive in improving public health in the contemporary background of global urbanisation (Liu et al., 2019). Urban greenspace has
-therefore become an effective tool for planning healthy cities, offering not only critical ecosystem services but also significant physical and mental benefits
-(Shanahan et al., 2015). Furthermore, this research aims to provide a spatio-temporal overview of greenspace ad the global pandemic of COVID-19, to identify if an
-increase in urban greenspace can reduce the transmission of COVID-19.
+Urban greenspace has been proven effetive in improving public health in the contemporary background of global urbanisation (Liu et al., 2019). Urban greenspace has therefore become an effective tool for planning healthy cities, offering not only critical ecosystem services but also significant physical and mental benefits (Shanahan et al., 2015). Furthermore, this research aims to provide a spatio-temporal overview of greenspace ad the global pandemic of COVID-19, to identify if an increase in urban greenspace can reduce the transmission of COVID-19.
 </p>
 
 
@@ -36,18 +26,13 @@ increase in urban greenspace can reduce the transmission of COVID-19.
 
 This is an entry for Covid-19 Hackathon 3: Ecosystem Services, run by the National Environmental Research Council (NERC). The brief for this hackathon is:
 <p align = "justify">
-* Can we understand whether/how a healthy natural environment modulates the spread of COVID-19? And whether changed human behaviours are having an impact on this? 
-Can we use this insight to improve health outcomes?
+* Can we understand whether/how a healthy natural environment modulates the spread of COVID-19? And whether changed human behaviours are having an impact on this? Can we use this insight to improve health outcomes?
 </p>
 <p align = "justify">
 * Evidence-based support for decision makers and individuals to mitigate their environmental impact and reduce their personal health risk.
 </p>
 <p align = "justify">
-Can we understand from landscape structure and function, the impact of natural capital and ecosystem services on how a healthy natural environment modulates the 
-spread of COVID-19, and what benefits we may obtain from this that may lead to better COVID-19 related health outcomes? For instance, do diverse ecosystems suppress 
-disease outbreaks? What characteristics of the natural environment modulates the disease dynamics? Is there evidence that exposure to nature/biodiversity lead to 
-better health outcomes? How can we provide evidence-based support for individuals to allow them to mitigate their environmental impact and also reduce their personal 
-health risk at the same time?
+Can we understand from landscape structure and function, the impact of natural capital and ecosystem services on how a healthy natural environment modulates the spread of COVID-19, and what benefits we may obtain from this that may lead to better COVID-19 related health outcomes? For instance, do diverse ecosystems suppress disease outbreaks? What characteristics of the natural environment modulates the disease dynamics? Is there evidence that exposure to nature/biodiversity lead to better health outcomes? How can we provide evidence-based support for individuals to allow them to mitigate their environmental impact and also reduce their personal health risk at the same time?
 </p>
 
 # Meet the Team
@@ -77,6 +62,11 @@ Luke Lear, _University of Exeter_
 
 
 # Our Entry
+
+
+# Our Digital Solution - Urban Greenspace App
+
+As our digital solution to using ecosystem services and natural capital to control the transmission of COVID-19, we have developed a proposal for a 'Green Spaces App'. This app seeks to explore if the 
 
 
 
