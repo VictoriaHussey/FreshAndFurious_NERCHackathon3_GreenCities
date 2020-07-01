@@ -1,6 +1,6 @@
 # FreshAndFurious_NERCHackathon3_GreenCities
 
-![Alt text]( FreshAndFurious_NERCHackathon3_GreenCities/Images/20200630_Logo_FaF_1000x246.png?raw=true "Title")
+![Banner](/FreshAndFurious_NERCHackathon3_GreenCities/Images/20200630_Logo_FaF_1000x246.png)
 
 This repository is Fresh and Furious' entry to the NERC COVID-19 Hackathon 3: Ecosystem Services
 
