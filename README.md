@@ -63,10 +63,15 @@ Luke Lear, _University of Exeter_
 
 # Our Entry
 
+<p align = "justify">
+We have used a selection of environmental and socio-economic data to explore if there is a relationship between urban greenspace and transmission of COVID-19. Data collected by the Office for National Statistics (ONS) was used in combination with land-use data from the Ordnance Survey to calculate population density per km^2 of green space in urban areas. This metric was compared against the number of confirmed COVID-19 cases for the 60 largest Upper Tier Local Authority areas in England, to understand if areas with higher population density per km^2 of greenspace also experienced higher number of confirmed cases of COVID-19. 
+</p>
 
 # Our Digital Solution - Urban Greenspace App
 
-As our digital solution to using ecosystem services and natural capital to control the transmission of COVID-19, we have developed a proposal for a 'Green Spaces App'. This app seeks to explore if the 
+<p align = "justify">
+As our digital solution to using ecosystem services and natural capital to control the transmission of COVID-19, we have developed a proposal for a 'Green Spaces App'. This app will permit users to check the status of their local greenspace for how busy it is, allowing for them to make an informed choice before leaving their home. 
+</p>
 
 
 
