@@ -21,7 +21,6 @@ Urban greenspace has been proven effetive in improving public health in the cont
 </p>
 
 
-
 # The Hackathon Brief
 
 This is an entry for Covid-19 Hackathon 3: Ecosystem Services, run by the National Environmental Research Council (NERC). The brief for this hackathon is:
@@ -35,10 +34,11 @@ This is an entry for Covid-19 Hackathon 3: Ecosystem Services, run by the Nation
 Can we understand from landscape structure and function, the impact of natural capital and ecosystem services on how a healthy natural environment modulates the spread of COVID-19, and what benefits we may obtain from this that may lead to better COVID-19 related health outcomes? For instance, do diverse ecosystems suppress disease outbreaks? What characteristics of the natural environment modulates the disease dynamics? Is there evidence that exposure to nature/biodiversity lead to better health outcomes? How can we provide evidence-based support for individuals to allow them to mitigate their environmental impact and also reduce their personal health risk at the same time?
 </p>
 
+
 # Meet the Team
 ![FRESH Logo](https://github.com/VictoriaHussey/FreshAndFurious_NERCHackathon3_GreenCities/blob/master/Images/FRESH%20Logo.jpg)
 
-The team comprises of 10 PhD researchers based across the GW4+ institutions. All team members are GW4+ FRESH CDT PhD researchers, from cohort 1 of the CDT. 
+The team comprises of 10 PhD researchers from the GW4+ FRESH CDT:
 
 Victoria Hussey, _University of Bristol_
 
@@ -73,6 +73,11 @@ We have used a range of environmental and socio-economic data to explore if ther
 As our digital solution to using ecosystem services and natural capital to control the transmission of COVID-19, we have developed a proposal for a 'Green Spaces App'. This app will permit users to check the status of their local greenspace for how busy it is, allowing for them to make an informed choice before leaving their home. 
 The app involves users updating the app when they arrive at a green space, where they will be asked to provide a ranking for how busy it is. This information will be used to inform the 'traffic-light' system which users will be presented with when they enter their postcode and select their local greenspace. 
 </p>
+
+# Data Sources
+
+
+# References
 
 
 
