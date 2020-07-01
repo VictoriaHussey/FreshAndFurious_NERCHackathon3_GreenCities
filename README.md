@@ -1,4 +1,4 @@
-![Banner](https://github.com/VictoriaHussey/FreshAndFurious_NERCHackathon3_GreenCities/blob/master/Images/20200630_Logo_FaF_400x98)
+![Banner](https://github.com/VictoriaHussey/FreshAndFurious_NERCHackathon3_GreenCities/blob/master/Images/20200630_Logo_FaF_400x98.png)
 
 
 # FreshAndFurious_NERCHackathon3_GreenCities
