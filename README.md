@@ -7,12 +7,14 @@ This repository is Fresh and Furious' entry to the NERC COVID-19 Hackathon 3: Ec
 
 
 # Abstract/Summary
-
+<p align = "justify">
+The COVID-19 pandemic has resulted in many countries enforcing social distancing to reduce disease transmission. Although a vital step in preventing the spread of COVID-19, social distancing has impacted the mental wellbeing of many people. For those living in densely-populated urban areas, access to public greenspaces are limited; those greenspaces available, such as parks and playing fields, have the potential to easily become overcrowded due to the high population density of urban areas.
+</p>
 
 # Introduction
 
 <p align="justify">
-The 2020 COVID-19 pandemic had caused countries across the world to implement unprecendented measures of social distancing to reduce the rate of transmission of COVID-19. Such measures include school closures and national or regional lockdowns to urge people to stay at home to reduce the amount of physical contact people have on a day-to-day basis. This is widely regarded as one of the most effective ways to reduce the transmission of COVID-19 (Gu et al., 2020). Social distancing has disrupted the lives of entire populations (Caria et al., 2020), impacting on the mental wellbeing of many people, especially among those living in densely-populated urban settings with limited green public spaces.
+The 2020 COVID-19 pandemic has caused countries across the world to implement unprecendented measures of social distancing to reduce the rate of transmission of COVID-19. Such measures include school closures and national or regional lockdowns to urge people to stay at home to reduce the amount of physical contact people have on a day-to-day basis. This is widely regarded as one of the most effective ways to reduce the transmission of COVID-19 (Gu et al., 2020). Social distancing has disrupted the lives of entire populations (Caria et al., 2020), impacting on the mental wellbeing of many people, especially among those living in densely-populated urban settings with limited green public spaces.
 The urban environment holds great influence over health, both directly and indirectly, through its impact on health-related behaviours (Bixby et al., 2015). The increase in chronic disease risk factors, for example, has been linked with urban living due to changing socio-economic, lifestyle and environmental factors (Allender et al., 2011). For this reason, disease prevention strategies that target the environment rather than individuals have gained support over recent years (Department of Health, 2004 & 2011).
 </p>
 
