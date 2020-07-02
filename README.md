@@ -38,7 +38,6 @@ Can we understand from landscape structure and function, the impact of natural c
 
 
 # Meet the Team
-![FRESH Logo](https://github.com/VictoriaHussey/FreshAndFurious_NERCHackathon3_GreenCities/blob/master/Images/FRESH%20Logo.jpg)
 
 The team comprises of 10 PhD researchers from the GW4+ FRESH CDT:
 
