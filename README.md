@@ -53,7 +53,6 @@ Improved physical health associated with living near green spaces may reduce ris
 </p>
 
 
-
 # Meet the Team
 
 The team comprises of 10 PhD researchers from the GW4<sup>+</sup> FRESH CDT:
@@ -72,7 +71,7 @@ Luke Lear
 
 
 # References
-
+A full reference list can be found [here]
 
 
 # Data Sources
