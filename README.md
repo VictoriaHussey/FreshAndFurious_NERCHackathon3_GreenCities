@@ -8,7 +8,7 @@ This repository is Fresh and Furious' entry to the NERC COVID-19 Hackathon 3: Ec
 
 # Abstract/Summary
 <p align = "justify">
-The COVID-19 pandemic has resulted in many countries enforcing social distancing to reduce disease transmission. Although a vital step in preventing the spread of COVID-19, social distancing has impacted the mental wellbeing of many people. For those living in densely-populated urban areas, access to public greenspaces are limited; those greenspaces available, such as parks and playing fields, have the potential to easily become overcrowded due to the high population density of urban areas.
+The COVID-19 pandemic has resulted in many countries enforcing social distancing to reduce disease transmission. Although a vital step in preventing the spread of COVID-19, social distancing has impacted the mental wellbeing of many people. For those living in densely-populated urban areas, access to public greenspaces are limited; those greenspaces available, such as parks and playing fields, have the potential to easily become overcrowded due to high population densities.
 </p>
 
 # Introduction
@@ -73,11 +73,12 @@ We have used a range of environmental and socio-economic data to explore if ther
 
 <p align = "justify">
 As our digital solution to using ecosystem services and natural capital to control the transmission of COVID-19, we have developed a proposal for a 'Green Spaces App'. This app will permit users to check the status of their local greenspace for how busy it is, allowing for them to make an informed choice before leaving their home. 
-The app involves users updating the app when they arrive at a green space, where they will be asked to provide a ranking for how busy it is. This information will be used to inform the 'traffic-light' system which users will be presented with when they enter their postcode and select their local greenspace. 
+The app involves users updating the app when they arrive at a green space, where they will be asked to provide a ranking for how busy it is. This feedback will be used to inform the 'traffic-light' system which users will be presented with when they enter their postcode and select their local greenspace. 
 </p>
 
 # Data Sources
 
+The data used was sourced from the following:
 
 # References
 
