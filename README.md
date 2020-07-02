@@ -41,13 +41,13 @@ Can we understand from landscape structure and function, the impact of natural c
 
 The team comprises of 10 PhD researchers from the GW4+ FRESH CDT:
 
-_University of Bath_: Franciszek Bydalek, Joshua Rainbow
+University of Bath: _Franciszek Bydalek, Joshua Rainbow_
 
-_University of Bristol_: Rory Burford, Toby Champneys, Elliot Druce, Jack Greenhalgh, Victoria Hussey
+University of Bristol: _Rory Burford, Toby Champneys, Elliot Druce, Jack Greenhalgh, Victoria Hussey_
 
-_University of Cardiff_: Annalise Hooper, Fiona Joyce
+University of Cardiff: _Annalise Hooper, Fiona Joyce_
 
-_University of Exeter_: Luke Lear
+University of Exeter: _Luke Lear_
 
 
 # Our Entry
