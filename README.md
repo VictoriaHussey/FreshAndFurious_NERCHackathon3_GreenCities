@@ -26,9 +26,9 @@ Urban greenspace has been proven effetive in improving public health in the cont
 # The Hackathon Brief
 
 <p align = "justify">
-This is an entry for Covid-19 Hackathon 3: Ecosystem Services, run by the National Environmental Research Council (NERC). [Click here](
-https://digitalenvironment.org/home/covid-19-digital-sprint-hackathons/covid-19-hackathon-3-ecosystem-services/) to access the hackathon brief.
+This is an entry for Covid-19 Hackathon 3: Ecosystem Services, run by the National Environmental Research Council (NERC). Click [here](https://digitalenvironment.org/home/covid-19-digital-sprint-hackathons/covid-19-hackathon-3-ecosystem-services/) to access the hackathon brief.
 </p>
+
 
 # Our Entry
 
