@@ -19,7 +19,7 @@ The urban environment holds great influence over health, both directly and indir
 </p>
 
 <p align="justify">
-Urban greenspace has been proven effective in improving public health in the contemporary background of global urbanisation (Liu et al., 2019). Urban greenspace has therefore become an effective tool for planning healthy cities, offering not only critical ecosystem services but also significant physical and mental benefits (Shanahan et al., 2015). Furthermore, this research aims to provide a spatio-temporal overview of greenspace ad the global pandemic of COVID-19, to identify if an increase in urban greenspace can reduce the transmission of COVID-19.
+Urban greenspace has been proven effective in improving public health in the contemporary background of global urbanisation (Liu et al., 2019). Urban greenspace has therefore become an effective tool for planning healthy cities, offering not only critical ecosystem services but also significant physical and mental benefits (Shanahan et al., 2015). Furthermore, this research aims to provide a spatio-temporal overview of greenspace and the global pandemic of COVID-19, to identify if an increase in urban greenspace can reduce the transmission of COVID-19.
 </p>
 
 
@@ -95,6 +95,10 @@ The following datasets are provided in the Dataset folder under the following na
 * Green space percentage cover data – “greenspace.csv”
 * The final datasets “Final dataset without London.csv” and “Final data set just London.csv”
 
+R packages used:
+* R Core Team (2020). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. [Click here to access](https://www.R-project.org/.)
+* Wickham Hadley, Romain François, Lionel Henry and Kirill Müller (2020). dplyr: A Grammar of Data Manipulation. R package version 1.0.0. [Click here to access](https://CRAN.R-project.org/package=dplyr.)
+* Bolker Ben and R Development Core Team (2020). bbmle: Tools for General Maximum Likelihood Estimation. R package version 1.0.23.1. [Click here to access](https://CRAN.R-project.org/package=bbmle.)
 
 
 ![Banner](https://github.com/VictoriaHussey/FreshAndFurious_NERCHackathon3_GreenCities/blob/master/Images/20200701_Banner_GW4_1000x84.png)
