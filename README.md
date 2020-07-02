@@ -25,30 +25,10 @@ Urban greenspace has been proven effetive in improving public health in the cont
 
 # The Hackathon Brief
 
-This is an entry for Covid-19 Hackathon 3: Ecosystem Services, run by the National Environmental Research Council (NERC). The brief for this hackathon is:
 <p align = "justify">
-* Can we understand whether/how a healthy natural environment modulates the spread of COVID-19? And whether changed human behaviours are having an impact on this? Can we use this insight to improve health outcomes?
+This is an entry for Covid-19 Hackathon 3: Ecosystem Services, run by the National Environmental Research Council (NERC). [Click here](
+https://digitalenvironment.org/home/covid-19-digital-sprint-hackathons/covid-19-hackathon-3-ecosystem-services/) to access the hackathon brief.
 </p>
-<p align = "justify">
-* Evidence-based support for decision makers and individuals to mitigate their environmental impact and reduce their personal health risk.
-</p>
-<p align = "justify">
-Can we understand from landscape structure and function, the impact of natural capital and ecosystem services on how a healthy natural environment modulates the spread of COVID-19, and what benefits we may obtain from this that may lead to better COVID-19 related health outcomes? For instance, do diverse ecosystems suppress disease outbreaks? What characteristics of the natural environment modulates the disease dynamics? Is there evidence that exposure to nature/biodiversity lead to better health outcomes? How can we provide evidence-based support for individuals to allow them to mitigate their environmental impact and also reduce their personal health risk at the same time?
-</p>
-
-
-# Meet the Team
-
-The team comprises of 10 PhD researchers from the GW4+ FRESH CDT:
-
-University of Bath: _Franciszek Bydalek, Joshua Rainbow_
-
-University of Bristol: _Rory Burford, Toby Champneys, Elliot Druce, Jack Greenhalgh, Victoria Hussey_
-
-University of Cardiff: _Annalise Hooper, Fiona Joyce_
-
-University of Exeter: _Luke Lear_
-
 
 # Our Entry
 
@@ -66,6 +46,20 @@ The app involves users updating the app when they arrive at a green space, where
 # Data Sources
 
 The data used was sourced from the following:
+
+
+# Meet the Team
+
+The team comprises of 10 PhD researchers from the GW4<sup>+</sup> FRESH CDT:
+
+University of Bath: _Franciszek Bydalek, Joshua Rainbow_
+
+University of Bristol: _Rory Burford, Toby Champneys, Elliot Druce, Jack Greenhalgh, Victoria Hussey_
+
+University of Cardiff: _Annalise Hooper, Fiona Joyce_
+
+University of Exeter: _Luke Lear_
+
 
 # References
 
