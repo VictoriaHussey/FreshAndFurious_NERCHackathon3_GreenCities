@@ -70,10 +70,10 @@ This section will provide a brief conclusion to the report...
 
 The team comprises of 10 PhD researchers from the GW4<sup>+</sup> FRESH CDT:
 
+<img align = "right" width = "320" height = "200" src="https://github.com/VictoriaHussey/FreshAndFurious_NERCHackathon3_GreenCities/blob/master/Images/FRESH%20Logo.jpg">
+
 ### University of Bath
 Franciszek Bydalek, Joshua Rainbow
-
-<img align = "right" width = "320" height = "200" src="https://github.com/VictoriaHussey/FreshAndFurious_NERCHackathon3_GreenCities/blob/master/Images/FRESH%20Logo.jpg">
 
 ### University of Bristol: 
 Rory Burford, Toby Champneys, Elliot Druce, Jack Greenhalgh, Victoria Hussey
