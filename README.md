@@ -71,7 +71,7 @@ Luke Lear
 
 
 # References
-A full reference list can be found [here]
+A full reference list can be found [here](/References/Reference List.docx)
 
 
 # Data Sources
