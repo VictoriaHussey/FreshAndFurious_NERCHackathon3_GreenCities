@@ -47,13 +47,10 @@ In UTLA’s across the UK (excluding London) we found that while controlling for
 
 # Our Digital Solution - Green Space App (GSA)
 <p align = "justify">
-Nature provides key ecosystem services that promote wellbeing and may modulate the spread of disease. Within urban environments, green spaces have diminished with time (Colding et al., 2020), despite being critical in times of crisis such as COVID-19 to alleviate the mental and physical burdens that arise with self-isolation (Samuelsson et al., 2020). Fewer, smaller private gardens and limited access to public green spaces in cities may result in crowding within available spaces. Crowded spaces can become hotspots of coronavirus contagion (Lall et al., 2020). It is therefore crucial to minimise the risks whilst maximising the benefits from natural environments. We propose better planning and expansion of urban green spaces to increase resilience to disease, as well as a digital solution, the Green Space App, to ensure safe use of outdoor space to limit crowding.
-</p>
-<p align = "justify">
-Digital solutions with similar concepts have been used to help reduce crowding on public transport and inform users of delays (Montreal Smart City, 2017). Other examples have shown how digital tools can be used to monitor accessibility to public green spaces and help inform better planning (Van Herzele & Wiedemann, 2003).
+Nature provides key ecosystem services that promote wellbeing and may modulate the spread of disease. Within urban environments, green spaces have diminished with time (Colding et al., 2020), despite being critical in times of crisis such as COVID-19 to alleviate the mental and physical burdens that arise with self-isolation (Samuelsson et al., 2020). Fewer, smaller private gardens and limited access to public green spaces in cities may result in crowding within available spaces. Crowded spaces can become hotspots of coronavirus contagion (Lall et al., 2020). It is therefore crucial to minimise the risks whilst maximising the benefits from natural environments. We propose better planning and expansion of urban green spaces to increase resilience to disease, as well as a digital solution, the Green Space App, to ensure safe use of outdoor space to limit crowding. Digital solutions with similar concepts have been used to help reduce crowding on public transport and inform users of delays (Montreal Smart City, 2017). Other examples have shown how digital tools can be used to monitor accessibility to public green spaces and help inform better planning (Van Herzele & Wiedemann, 2003).
 </p>
 
-We have created a User Requirement Specification for our mobile application, which can be viewed [here].
+The User Requirement Specification for our mobile application provides further detail on our proposal, and can be viewed [here]. 
 
 # Future Work and Conclusion
 
