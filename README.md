@@ -68,7 +68,7 @@ This section will provide a brief conclusion to the report...
 
 # Meet the Team
 
-<img align = "right" width = "320" height = "200" src="https://github.com/VictoriaHussey/FreshAndFurious_NERCHackathon3_GreenCities/blob/master/Images/FRESH%20Logo.jpg">
+<img align = "right" width = "300" height = "200" src="https://github.com/VictoriaHussey/FreshAndFurious_NERCHackathon3_GreenCities/blob/master/Images/FRESH%20Logo.jpg">
 
 The team comprises of 10 PhD researchers from the GW4<sup>+</sup> FRESH CDT:
 
