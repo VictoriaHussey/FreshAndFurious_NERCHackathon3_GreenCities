@@ -88,12 +88,14 @@ A full reference list can be found [here](/References/References.docx)
 Our analysis focused on the most populous UTLA’s England (Upper Tier Local Authorities) in England. A total of 68 UTLA’s were selected, including 32 London boroughs and 36 metropolitan boroughs. Population data of selected metropolitan districts are according to estimated figures for 2019 from the Office for National Statistics (ONS) . Land area of respective metropolitan districts comes from ONS data base on Standard Area Measurements for the administrative areas in the United Kingdom (2016) . The total number of coronavirus cases in each UTLA between 01/03/2020 and 27/06/2020 were obtained from the official governmental website dedicated for dissemination of coronavirus-related information . Data on the proportion of households with access to parks and  private gardens was provided by the Office for National Statistics . Data showing the green area percentage coverage in selected urban areas was provided by The Centre for Research on Environment Society and Health (CRESH) . Green space cover data for each ward was used to calculate the average value for each UTLA using the aggregate function in R version 4.0.0 (R Core Team, 2020). Collected datasets were compiled into single dataset matrix using R 4.0.0 (R Core Team, 2020), the dplyr (v1.0.0, Wickham et al, 2020) and the bbmle (v1.0.23.1, Bolker et al, 2020) packages. The full reproducible code is available in Supplementary Materials.
 </p>
 
-The following datasets are provided in the Dataset folder under the following names:
-* Total coronavirus cases per UTLA – “Coronavirus_data.csv”
-* Metadata including population and land area data for the 68 chosen UTLA’s – “metadata.csv”
-* Access to private gardens and parks data “Park_access.csv”
-* Green space percentage cover data – “greenspace.csv”
-* The final datasets “Final dataset without London.csv” and “Final data set just London.csv”
+The following datasets are provided in the [Dataset](/Dataset) folder:
+* Total coronavirus cases per UTLA – [Coronavirus_data](/Dataset/Coronavirus_data.csv)
+* Metadata including population and land area data for the 68 chosen UTLA’s – [Metadata](/Dataset/metadata.csv)
+* Access to private gardens and parks data - [Park_access](/Dataset/Park_access.csv)
+* Green space percentage cover data – [Greenspace](/Dataset/greenspace.csv)
+* The final datasets:
+  * [“Final dataset without London”](/Dataset/Final dataset without London.csv)
+  * [“Final data set just London”](/Dataset/Final data set just London.csv)
 
 R packages used:
 * R Core Team (2020). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. [Click here to access](https://www.R-project.org/.)
