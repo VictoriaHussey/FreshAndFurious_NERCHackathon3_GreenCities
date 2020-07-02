@@ -94,8 +94,8 @@ The following datasets are provided in the [Dataset](/Dataset) folder:
 * Access to private gardens and parks data - [Park_access](/Dataset/Park_access.csv)
 * Green space percentage cover data – [Greenspace](/Dataset/greenspace.csv)
 * The final datasets:
-  * [“Final dataset just London”](/Dataset/Final_Data_London.csv)
-  * [“Final dataset without London”](/Dataset/Final_Data_Outside_London.csv)
+  * [Final dataset for London](/Dataset/Final_Data_London.csv)
+  * [Final dataset excluding London](/Dataset/Final_Data_Outside_London.csv)
 
 R packages used:
 * R Core Team (2020). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. [Click here to access](https://www.R-project.org/.)
