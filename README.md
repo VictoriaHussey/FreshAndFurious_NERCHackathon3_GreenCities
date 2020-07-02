@@ -78,7 +78,7 @@ Franciszek Bydalek, Joshua Rainbow
 ### University of Bristol: 
 Rory Burford, Toby Champneys, Elliot Druce, Jack Greenhalgh, Victoria Hussey
 
-### University of Cardiff: 
+### Cardiff University: 
 Annalise Hooper, Fiona Joyce
 
 ### University of Exeter: 
