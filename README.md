@@ -19,7 +19,7 @@ The urban environment holds great influence over health, both directly and indir
 </p>
 
 <p align="justify">
-Urban greenspace has been proven effetive in improving public health in the contemporary background of global urbanisation (Liu et al., 2019). Urban greenspace has therefore become an effective tool for planning healthy cities, offering not only critical ecosystem services but also significant physical and mental benefits (Shanahan et al., 2015). Furthermore, this research aims to provide a spatio-temporal overview of greenspace ad the global pandemic of COVID-19, to identify if an increase in urban greenspace can reduce the transmission of COVID-19.
+Urban greenspace has been proven effective in improving public health in the contemporary background of global urbanisation (Liu et al., 2019). Urban greenspace has therefore become an effective tool for planning healthy cities, offering not only critical ecosystem services but also significant physical and mental benefits (Shanahan et al., 2015). Furthermore, this research aims to provide a spatio-temporal overview of greenspace ad the global pandemic of COVID-19, to identify if an increase in urban greenspace can reduce the transmission of COVID-19.
 </p>
 
 
@@ -35,6 +35,8 @@ This is an entry for Covid-19 Hackathon 3: Ecosystem Services, run by the Nation
 We hypothesised that the number of COVID-19 cases in urban areas reduce with increased availability of public green spaces. We included data on the number of fines issued for breaching of lockdown measures as a potential artifact of fewer local green spaces, further highlighting the importance of better planning in both established and future housing developments. We aim to show the importance of incorporating green space within cities to reduce risks of disease transmission, and subsequently propose a digital solution which allows such spaces to be used safely to further minimise risks while maximising the benefits they provide.
 </p>
 
+## Methodology and Analysis
+
 
 # Our Digital Solution - Urban Greenspace App
 
@@ -46,6 +48,7 @@ The app involves users updating the app when they arrive at a green space, where
 
 # Conclusions and Future Work
 
+## Future Work
 <p align = "justify">
 Improved physical health associated with living near green spaces may reduce risk of comorbidities and help to improve immune system function of infected individuals. Including data on fatalities may reveal these additional benefits but this was not within the current scope of research. Furthermore, health is associated with socioeconomic status and air pollution, both of which are known to be factors that affect the severity of coronavirus. While crowded housing remains to be an issue in the transmission of disease amongst low-income communities, proximity to green spaces has been shown to almost halve health inequalities (Marmot, 2010), which may act as a significant buffer against death. Future work would benefit from the inclusion of such data.
 </p>
@@ -56,13 +59,17 @@ Improved physical health associated with living near green spaces may reduce ris
 
 The team comprises of 10 PhD researchers from the GW4<sup>+</sup> FRESH CDT:
 
-University of Bath: _Franciszek Bydalek, Joshua Rainbow_
+### University of Bath
+Franciszek Bydalek, Joshua Rainbow
 
-University of Bristol: _Rory Burford, Toby Champneys, Elliot Druce, Jack Greenhalgh, Victoria Hussey_
+### University of Bristol: 
+Rory Burford, Toby Champneys, Elliot Druce, Jack Greenhalgh, Victoria Hussey
 
-University of Cardiff: _Annalise Hooper, Fiona Joyce_
+### University of Cardiff: 
+Annalise Hooper, Fiona Joyce
 
-University of Exeter: _Luke Lear_
+### University of Exeter: 
+Luke Lear
 
 
 # References
