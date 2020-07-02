@@ -51,7 +51,7 @@ Nature provides key ecosystem services that promote wellbeing and may modulate t
 </p>
 
 
-# Conclusion and Future Work
+# Future Work and Conclusion
 
 ## Future Work
 <p align = "justify">
@@ -89,11 +89,11 @@ Our analysis focused on the most populous UTLA’s England (Upper Tier Local Aut
 </p>
 
 The following datasets are provided in the Dataset folder under the following names:
-Total coronavirus cases per UTLA – “Coronavirus_data.csv”
-Metadata including population and land area data for the 68 chosen UTLA’s – “metadata.csv”
-Access to private gardens and parks data “Park_access.csv”
-Green space percentage cover data – “greenspace.csv”
-The final datasets “Final dataset without London.csv” and “Final data set just London.csv”
+* Total coronavirus cases per UTLA – “Coronavirus_data.csv”
+* Metadata including population and land area data for the 68 chosen UTLA’s – “metadata.csv”
+* Access to private gardens and parks data “Park_access.csv”
+* Green space percentage cover data – “greenspace.csv”
+* The final datasets “Final dataset without London.csv” and “Final data set just London.csv”
 
 
 
