@@ -51,7 +51,7 @@ Nature provides key ecosystem services that promote wellbeing and may modulate t
 </p>
 
 <p align = "justify">
-The User Requirement Specification for our mobile application provides further detail on our proposal, and can be viewed [here]. 
+The User Requirement Specification for our mobile application provides further detail on our proposal, and can be viewed by clicking [here]. 
 </p>
 
 
@@ -86,7 +86,7 @@ Luke Lear
 
 
 # References
-A full reference list can be found [here](/References/References.docx)
+A full reference list can be found by clicking [here](/References/References.docx)
 
 
 # Data Sources
