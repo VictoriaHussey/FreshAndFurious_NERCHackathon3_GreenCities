@@ -7,9 +7,9 @@ This repository is Fresh and Furious' entry to the NERC COVID-19 Hackathon 3: Ec
 
 
 # Abstract/Summary
-<p align = "justify">
-The COVID-19 pandemic has resulted in many countries enforcing social distancing to reduce disease transmission. Although a vital step in preventing the spread of COVID-19, social distancing has impacted the mental wellbeing of many people. For those living in densely-populated urban areas, access to public greenspaces are limited; those greenspaces available, such as parks and playing fields, have the potential to easily become overcrowded due to high population densities.
-</p>
+
+Click [here] to watch our video summary on YouTube.   
+
 
 # Introduction
 
@@ -32,8 +32,9 @@ This is an entry for Covid-19 Hackathon 3: Ecosystem Services, run by the Nation
 # Our Entry
 
 <p align = "justify">
-We have used a range of environmental and socio-economic data to explore if there is a relationship between urban greenspace and transmission of COVID-19. Data collected by the Office for National Statistics (ONS) was used in combination with land-use data from the Ordnance Survey to calculate population density per km<sup>2</sup> of green space in urban areas. This metric was compared against the number of confirmed COVID-19 cases for the 60 largest Upper Tier Local Authority areas in England, to understand if areas with higher population density per km<sup>2</sup> of greenspace also experienced higher number of confirmed cases of COVID-19. 
+We hypothesised that the number of COVID-19 cases in urban areas reduce with increased availability of public green spaces. We included data on the number of fines issued for breaching of lockdown measures as a potential artifact of fewer local green spaces, further highlighting the importance of better planning in both established and future housing developments. We aim to show the importance of incorporating green space within cities to reduce risks of disease transmission, and subsequently propose a digital solution which allows such spaces to be used safely to further minimise risks while maximising the benefits they provide.
 </p>
+
 
 # Our Digital Solution - Urban Greenspace App
 
@@ -42,9 +43,13 @@ As our digital solution to using ecosystem services and natural capital to contr
 The app involves users updating the app when they arrive at a green space, where they will be asked to provide a ranking for how busy it is. This feedback will be used to inform the 'traffic-light' system which users will be presented with when they enter their postcode and select their local greenspace. 
 </p>
 
-# Data Sources
 
-The data used was sourced from the following:
+# Conclusions and Future Work
+
+<p align = "justify">
+Improved physical health associated with living near green spaces may reduce risk of comorbidities and help to improve immune system function of infected individuals. Including data on fatalities may reveal these additional benefits but this was not within the current scope of research. Furthermore, health is associated with socioeconomic status and air pollution, both of which are known to be factors that affect the severity of coronavirus. While crowded housing remains to be an issue in the transmission of disease amongst low-income communities, proximity to green spaces has been shown to almost halve health inequalities (Marmot, 2010), which may act as a significant buffer against death. Future work would benefit from the inclusion of such data.
+</p>
+
 
 
 # Meet the Team
@@ -61,6 +66,12 @@ University of Exeter: _Luke Lear_
 
 
 # References
+
+
+
+# Data Sources
+
+The data used was sourced from the following:
 
 
 
