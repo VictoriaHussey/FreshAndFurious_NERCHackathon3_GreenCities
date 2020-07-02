@@ -31,6 +31,7 @@ This is an entry for Covid-19 Hackathon 3: Ecosystem Services, run by the Nation
 
 # Our Entry
 
+## Research Aims and Hypotheses
 <p align = "justify">
 We hypothesised that the number of COVID-19 cases in urban areas reduce with increased availability of public green spaces. We included data on the number of fines issued for breaching of lockdown measures as a potential artifact of fewer local green spaces, further highlighting the importance of better planning in both established and future housing developments. We aim to show the importance of incorporating green space within cities to reduce risks of disease transmission, and subsequently propose a digital solution which allows such spaces to be used safely to further minimise risks while maximising the benefits they provide.
 </p>
@@ -39,10 +40,8 @@ We hypothesised that the number of COVID-19 cases in urban areas reduce with inc
 
 
 # Our Digital Solution - Urban Greenspace App
-
 <p align = "justify">
-As our digital solution to using ecosystem services and natural capital to control the transmission of COVID-19, we have developed a proposal for a 'Green Spaces App'. This app will permit users to check the status of their local greenspace for how busy it is, allowing for them to make an informed choice before leaving their home. 
-The app involves users updating the app when they arrive at a green space, where they will be asked to provide a ranking for how busy it is. This feedback will be used to inform the 'traffic-light' system which users will be presented with when they enter their postcode and select their local greenspace. 
+Nature provides key ecosystem services that promote wellbeing and may modulate the spread of disease. Within urban environments, green spaces have diminished with time (Colding et al., 2020), despite being critical in times of crisis such as COVID-19 to alleviate the mental and physical burdens that arise with self-isolation (Samuelsson et al., 2020). Fewer, smaller private gardens and limited access to public green spaces in cities may result in crowding within available spaces. Crowded spaces can become hotspots of coronavirus contagion (Lall et al., 2020). It is therefore crucial to minimise the risks whilst maximising the benefits from natural environments. We propose better planning and expansion of urban green spaces to increase resilience to disease, as well as a digital solution, the Green Space App, to ensure safe use of outdoor space to limit crowding.
 </p>
 
 
