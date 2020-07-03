@@ -4,7 +4,7 @@
 This repository is Fresh and Furious' entry to the NERC COVID-19 Hackathon 3: Ecosystem Services
 
 # Table of Contents
-* Video Abstract
+* [Video Abstract](https://github.com/VictoriaHussey/FreshAndFurious_NERCHackathon3_GreenCities#Video%20Abstract)
 * Introduction
 * The Hackathon Brief
 * Our Entry
