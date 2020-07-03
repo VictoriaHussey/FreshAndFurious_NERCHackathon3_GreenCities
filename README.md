@@ -97,7 +97,7 @@ Our analysis focused on the most populous UTLA’s England (Upper Tier Local Aut
 
 The following datasets are provided in the [Datasets](/Supplementary%20Materials/Datasets) subfolder:
 * Total coronavirus cases per UTLA – [Coronavirus data](/Supplementary%20Materials/Datasets/Coronavirus_data.csv)
-* Metadata including population and land area data for the 68 chosen UTLA’s – [Metadata](/Supplementary%20Materials/Dataset/metadata.csv)
+* Metadata including population and land area data for the 68 chosen UTLA’s – [Metadata](/Supplementary%20Materials/Datasets/metadata.csv)
 * Access to private gardens and parks data - [Park access](Supplementary%20Materials/Datasets/Park_access.csv)
 * Green space percentage cover data – [Greenspace](/Supplementary%20Materials/Datasets/Greenspace.csv)
 * The final datasets:
