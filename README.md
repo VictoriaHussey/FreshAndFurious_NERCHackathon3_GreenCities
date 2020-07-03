@@ -112,7 +112,7 @@ The amount and quality of accessible green space can alter patterns in human mov
 
 # Meet the Team
 
-<img align = "right" width = "300" height = "200" src="https://github.com/VictoriaHussey/FreshAndFurious_NERCHackathon3_GreenCities/blob/master/Images/FRESH%20Logo.jpg">
+<img align = "right" width = "250" height = "150" src="https://github.com/VictoriaHussey/FreshAndFurious_NERCHackathon3_GreenCities/blob/master/Images/FRESH%20Logo.jpg">
 
 The team comprises of 10 PhD researchers from the [GW4<sup>+</sup> FRESH CDT](https://www.gw4fresh.co.uk/):
 
