@@ -4,21 +4,21 @@
 This repository is Fresh and Furious' entry to the NERC COVID-19 Hackathon 3: Ecosystem Services
 
 # Table of Contents
-* [Video Abstract](#Video-Abstract)
-* [Introduction](#Introduction)
-* The Hackathon Brief
-* Our Entry
- * Research Aims and Hypotheses
- * Methodology
- * Results
-* Our Digital Solution - GreenSpace Mobile Application
- * Mobile Application Requirement Specification
-* Future Work and Conclusion
- * Future Work
- * Conclusion
-* Meet the Team
-* References
-* Data Sources
+* [Video Abstract](#video-abstract)
+* [Introduction](#introduction)
+* [The Hackathon Brief](#the-hackathon-brief)
+* [Our Entry](#our-entry)
+ * [Research Aims and Hypotheses](#research-aims-and-hypotheses)
+ * [Methodology](#methodology)
+ * [Results](#results)
+* [Our Digital Solution - GreenSpace Mobile Application](#our-digital-solution---greenspace-mobile-application)
+ * [Mobile Application Requirement Specification](#mobile-application-requirement-specification)
+* [Future Work and Conclusion](#future-work-and-conclusion)
+ * [Future Work](#future-work)
+ * [Conclusion](#conclusion)
+* [Meet the Team](#meet-the-team)
+* [References](#references)
+* [Data Sources](#data-sources)
 
 
 
