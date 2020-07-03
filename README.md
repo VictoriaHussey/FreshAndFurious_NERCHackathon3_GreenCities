@@ -18,7 +18,7 @@ This repository is Fresh and Furious' entry to the NERC COVID-19 Hackathon 3: Ec
 
 # Video Abstract
 
-Click [here](https://youtu.be/nlhjzGjh1oM) to watch our video abstract on YouTube.   
+We've created a video abstract which outlines our research aims, methods and results, in addition to an outline of our digital solution - *GreenSpace* mobile application. Click [here](https://youtu.be/nlhjzGjh1oM) to give it a watch!
 
 
 # Introduction
