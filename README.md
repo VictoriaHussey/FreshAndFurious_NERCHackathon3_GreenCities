@@ -89,7 +89,9 @@ Improved physical health associated with living near green spaces may reduce ris
 ## Conclusion
 <p align = "justify">
 Urban green spaces are critical in times of crisis to limit adverse impacts to mental and physical health (Samuelsson et al., 2020; Owen et al., 2020). Used safely i.e. without crowding, green spaces may aid in repressing disease transmission. However, with fewer spaces available to city residents (Colding et al., 2020), social distancing becomes more difficult and the likelihood of lockdown measures being breached may increase. Analyses of open-access data on green space availability, both public and private, in addition to the number of fines issued for breaching of lockdown measures highlighted these issues, indicating that in highly-populated areas urban green spaces may become hotspots of contagion. 
+ 
 We therefore developed a prototype for a mobile application, Greenspace, that allows users to input visitation information and check the predicted status of human traffic within urban green spaces. This reduces both personal risk and helps to limit spread by reducing crowding. Information collected from the application can also be used to identify areas of high usage that may require attention and inform better planning of urban spaces. 
+
 The amount and quality of accessible green space can alter patterns in human movements and activities (Van Herzele & Wieldemann, 2003). More extensive re-greening across cities may therefore reduce crowding in current designated public green spaces. We call for a large-scale effort to promote nature across cities to maximise the ecosystem services that nature provides. This is also a critical and urgent step in addressing global biodiversity loss and the climate crisis, which requires immediate and universal action. 
 </p>
 
