@@ -18,7 +18,7 @@ This repository is Fresh and Furious' entry to the NERC COVID-19 Hackathon 3: Ec
 
 # Video Abstract
 
-Click [here](https://youtu.be/1nWNklVf5fI) to watch our video abstract on YouTube.   
+Click [here](https://youtu.be/nlhjzGjh1oM) to watch our video abstract on YouTube.   
 
 
 # Introduction
