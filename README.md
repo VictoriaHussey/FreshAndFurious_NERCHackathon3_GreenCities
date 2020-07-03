@@ -4,9 +4,9 @@
 This repository is Fresh and Furious' entry to the NERC COVID-19 Hackathon 3: Ecosystem Services
 
 
-# Abstract/Summary
+# Video Abstract
 
-Click [here] to watch our video summary on YouTube.   
+Click [here] to watch our video abstract on YouTube.   
 
 
 # Introduction
@@ -43,16 +43,17 @@ This section will outline our methodology and data analysis...
 In UTLA’s across the UK (excluding London) we found that while controlling for the effects of population size (P < 0.001) and area (P = 0.28), areas where a higher proportion of people have access to private gardens had fewer coronavirus cases (P = 0.04). While the mean percentage cover of green space did not have a significant effect (P = 0.09). In London however, while controlling for the effects of population size (P = 0.04) and area (P = 0.002), UTLA’s with a higher percentage coverage of green space had a higher number of coronavirus cases (P = 0.001). While the proportion of people in London UTLA’s with access to private gardens did not affect coronavirus case numbers (P = 0.85).
 </p>                                                                                                                      
 
-# Our Digital Solution - Green Space App
+# Our Digital Solution - GreenSpace Mobile Application
 <img align = "right" width = "220" height = "330" src="https://github.com/VictoriaHussey/FreshAndFurious_NERCHackathon3_GreenCities/blob/master/Images/Final.png">
 
 <p align = "justify">
 Nature provides key ecosystem services that promote wellbeing and may modulate the spread of disease. Within urban environments, green spaces have diminished with time (Colding et al., 2020), despite being critical in times of crisis such as COVID-19 to alleviate the mental and physical burdens that arise with self-isolation (Samuelsson et al., 2020). Fewer, smaller private gardens and limited access to public green spaces in cities may result in crowding within available spaces. Crowded spaces can become hotspots of coronavirus contagion (Lall et al., 2020). It is therefore crucial to minimise the risks whilst maximising the benefits from natural environments. We propose better planning and expansion of urban green spaces to increase resilience to disease, as well as a digital solution, the Green Space App, to ensure safe use of outdoor space to limit crowding. Digital solutions with similar concepts have been used to help reduce crowding on public transport and inform users of delays (Montreal Smart City, 2017). Other examples have shown how digital tools can be used to monitor accessibility to public green spaces and help inform better planning (Van Herzele & Wiedemann, 2003).
 </p>
 
-<p align = "justify">
-The User Requirement Specification for our mobile application provides further detail on our proposal, and can be viewed by clicking [here]. 
-</p>
+## Mobile Application Requirement Specification
+
+We have created a Requirement Specification for our mobile application *GreenSpace*, which provides an extensive outline of our proposal. Click [here] to read!  
+
 
 
 # Future Work and Conclusion
