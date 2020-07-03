@@ -119,12 +119,21 @@ A full reference list can be found by clicking [here](/References/References.doc
 
 
 # Data Sources
+## Data Description
 <p align = "justify">
-Our analysis focused on the most populous UTLAs in England. A total of 68 UTLAs were selected, including 32 London boroughs and 36 metropolitan boroughs. Population data of selected metropolitan districts are according to estimated figures for 2019 from the Office for National Statistics (ONS) . Land area of respective metropolitan districts comes from ONS data base on Standard Area Measurements for the administrative areas in the United Kingdom (2016) . The total number of COVID-19 cases in each UTLA between 01/03/2020 and 27/06/2020 were obtained from the official governmental website dedicated for dissemination of COVID-19-related information . Data on the proportion of households with access to parks and  private gardens was provided by the Office for National Statistics . Data showing the green area percentage coverage in selected urban areas was provided by The Centre for Research on Environment Society and Health (CRESH) . Green space cover data for each ward was used to calculate the average value for each UTLA using the aggregate function in R version 4.0.0 (R Core Team, 2020). Collected datasets were compiled into single dataset matrix using R 4.0.0 (R Core Team, 2020), the dplyr (v1.0.0, Wickham et al, 2020) and the bbmle (v1.0.23.1, Bolker et al, 2020) packages. 
-</p>
+Our analysis focused on the most populous UTLAs in England. A total of 68 UTLAs were selected, including 32 London boroughs and 36 metropolitan boroughs. Population data of selected metropolitan districts are according to estimated figures for 2019 from the Office for National Statistics (ONS) . Land area of respective metropolitan districts comes from ONS data base on Standard Area Measurements for the administrative areas in the United Kingdom (2016) . The total number of COVID-19 cases in each UTLA between 01/03/2020 and 27/06/2020 were obtained from the official governmental website dedicated for dissemination of COVID-19-related information . Data on the proportion of households with access to parks and  private gardens was provided by the Office for National Statistics . Data showing the green area percentage coverage in selected urban areas was provided by The Centre for Research on Environment Society and Health (CRESH) . Green space cover data for each ward was used to calculate the average value for each UTLA using the aggregate function in R version 4.0.0 (R Core Team, 2020). 
+</p> 
 
+To assess the impact of access to nature on the number of fines handed out during lockdown in London, we used two publicly available datasets:
+* [the access to Public Open Space data from London Datastore](https://data.london.gov.uk/dataset/access-public-open-space-and-nature-ward) 
+* [the final FNP arrest analysis report from the metropolitan police](http://news.met.police.uk/documents/final-fpn-arrest-analysis-report-96756).
+
+Collected datasets were compiled into single dataset matrix using R 4.0.0 (R Core Team, 2020), the dplyr (v1.0.0, Wickham et al, 2020) and the bbmle (v1.0.23.1, Bolker et al, 2020) packages. 
+
+## Code
 The full reproducible code for our analysis is available in the [Code](/Supplementary%20Materials/Code) subfolder.
 
+## Datasets
 The following datasets are provided in the [Datasets](/Supplementary%20Materials/Datasets) subfolder:
 * Total COVID-19 cases per UTLA – [Coronavirus data](/Supplementary%20Materials/Datasets/Coronavirus_data.csv)
 * Metadata including population and land area data for the 68 chosen UTLA’s – [Metadata](/Supplementary%20Materials/Datasets/metadata.csv)
@@ -134,7 +143,7 @@ The following datasets are provided in the [Datasets](/Supplementary%20Materials
   * [Final dataset for London](/Supplementary%20Materials/Datasets/Final_Data_London.csv)
   * [Final dataset excluding London](/Supplementary%20Materials/Datasets/Final_Data_Outside_London.csv)
 
-R packages used:
+## R Packages
 * R Core Team (2020). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. [Click here to access](https://www.R-project.org/.)
 * Wickham Hadley, Romain François, Lionel Henry and Kirill Müller (2020). dplyr: A Grammar of Data Manipulation. R package version 1.0.0. [Click here to access](https://CRAN.R-project.org/package=dplyr.)
 * Bolker Ben and R Development Core Team (2020). bbmle: Tools for General Maximum Likelihood Estimation. R package version 1.0.23.1. [Click here to access](https://CRAN.R-project.org/package=bbmle.)
