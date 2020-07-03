@@ -76,7 +76,7 @@ Nature provides key ecosystem services that promote wellbeing and may modulate t
 
 ## Mobile Application Requirement Specification
 
-We have created a Requirement Specification for our mobile application *GreenSpace*, which provides an extensive outline of our proposal. Click [here] to read!  
+We have created a Requirement Specification for our mobile application *GreenSpace*, which provides an extensive outline of our proposal. Click [here](https://github.com/VictoriaHussey/FreshAndFurious_NERCHackathon3_GreenCities/blob/master/Our%20Digital%20Solution%20-%20Green%20Space%20App/20200701_UserRequirementsSpecification.docx) to read!  
 
 
 # Future Work and Conclusion
