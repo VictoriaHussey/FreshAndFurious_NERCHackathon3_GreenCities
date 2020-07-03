@@ -95,13 +95,13 @@ Our analysis focused on the most populous UTLA’s England (Upper Tier Local Aut
 </p>
 
 The following datasets are provided in the [Dataset](/Dataset) folder:
-* Total coronavirus cases per UTLA – [Coronavirus_data](/Dataset/Coronavirus_data.csv)
-* Metadata including population and land area data for the 68 chosen UTLA’s – [Metadata](/Dataset/metadata.csv)
-* Access to private gardens and parks data - [Park_access](/Dataset/Park_access.csv)
-* Green space percentage cover data – [Greenspace](/Dataset/greenspace.csv)
+* Total coronavirus cases per UTLA – [Coronavirus_data](/Datasets/Coronavirus_data.csv)
+* Metadata including population and land area data for the 68 chosen UTLA’s – [Metadata](/Datasets/metadata.csv)
+* Access to private gardens and parks data - [Park_access](/Datasets/Park_access.csv)
+* Green space percentage cover data – [Greenspace](/Datasets/greenspace.csv)
 * The final datasets:
-  * [Final dataset for London](/Dataset/Final_Data_London.csv)
-  * [Final dataset excluding London](/Dataset/Final_Data_Outside_London.csv)
+  * [Final dataset for London](/Datasets/Final_Data_London.csv)
+  * [Final dataset excluding London](/Datasets/Final_Data_Outside_London.csv)
 
 R packages used:
 * R Core Team (2020). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. [Click here to access](https://www.R-project.org/.)
