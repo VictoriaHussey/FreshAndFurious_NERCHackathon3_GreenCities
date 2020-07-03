@@ -71,7 +71,7 @@ In UTLAs across the UK (excluding London) we found that while controlling for th
 
 
 # Our Digital Solution - GreenSpace Mobile Application
-<img align = "right" width = "220" height = "330" src="https://github.com/VictoriaHussey/FreshAndFurious_NERCHackathon3_GreenCities/blob/master/Images/Final.png">
+[<img align = "right" width = "220" height = "330" src="https://github.com/VictoriaHussey/FreshAndFurious_NERCHackathon3_GreenCities/blob/master/Images/Final.png">](https://github.com/VictoriaHussey/FreshAndFurious_NERCHackathon3_GreenCities/blob/master/Our%20Digital%20Solution%20-%20Green%20Space%20App/20200701_UserRequirementsSpecification.docx)
 
 <p align = "justify">
 Nature provides key ecosystem services that promote wellbeing and may modulate the spread of disease. Within urban environments, green spaces have diminished with time (Colding et al., 2020), despite being critical in times of crisis such as COVID-19 to alleviate the mental and physical burdens that arise with self-isolation (Samuelsson et al., 2020). Fewer, smaller private gardens and limited access to public green spaces in cities may result in crowding within available spaces. Crowded spaces can become hotspots of COVID-19 contagion (Lall et al., 2020). It is therefore crucial to minimise the risks whilst maximising the benefits from natural environments. We propose better planning and expansion of urban green spaces to increase resilience to disease, as well as a digital solution, the GreenSpace app, to ensure safe use of outdoor space to limit crowding. Digital solutions with similar concepts have been used to reduce crowding on public transport and inform users of delays (Montreal Smart City, 2017). Other examples have shown how digital tools can be used to monitor accessibility to public green spaces and inform better planning (Van Herzele & Wiedemann, 2003).
@@ -79,7 +79,7 @@ Nature provides key ecosystem services that promote wellbeing and may modulate t
 
 ## Mobile Application Requirement Specification
 
-We have created a Requirement Specification for our mobile application *GreenSpace*, which provides an extensive outline of our proposal. Click [here](https://github.com/VictoriaHussey/FreshAndFurious_NERCHackathon3_GreenCities/blob/master/Our%20Digital%20Solution%20-%20Green%20Space%20App/20200701_UserRequirementsSpecification.docx) to read!  
+We have created a [Requirement Specification] for our mobile application *GreenSpace*, which provides an extensive outline of our proposal. Click [here](https://github.com/VictoriaHussey/FreshAndFurious_NERCHackathon3_GreenCities/blob/master/Our%20Digital%20Solution%20-%20Green%20Space%20App/20200701_UserRequirementsSpecification.docx) to read!  
 
 
 # Future Work and Conclusion
