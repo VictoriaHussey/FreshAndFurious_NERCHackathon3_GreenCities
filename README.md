@@ -15,7 +15,6 @@ This repository is Fresh and Furious' entry to the NERC COVID-19 Hackathon 3: Ec
 * [Data Sources](#data-sources)
 
 
-
 # Video Abstract
 
 We've created a video abstract which outlines our research aims, methods and results, in addition to an outline of our digital solution - *GreenSpace* mobile application. Click [here](https://youtu.be/nlhjzGjh1oM) to give it a watch!
@@ -36,7 +35,6 @@ Urban green space has been proven effective in improving public health in the co
 # The Hackathon Brief
 
 This is an entry for COVID-19 Hackathon 3: Ecosystem Services, run by the National Environmental Research Council (NERC). Click [here](https://digitalenvironment.org/home/covid-19-digital-sprint-hackathons/covid-19-hackathon-3-ecosystem-services/) to access the hackathon brief.
-
 
 
 # Our Entry
@@ -80,7 +78,6 @@ All analyses were conducted in R version 4.0.0 (R Core Team, 2020).
 <p align = "justify">
 In UTLAs across the UK (excluding London) we found that while controlling for the effects of population size (p < 0.001) and area (p = 0.28), areas where a higher proportion of people have access to private gardens reported fewer COVID-19 cases (p = 0.04; figure 1, b2). Conversely, the mean percentage cover of green space did not have a significant effect (p = 0.09; figure 1, a2) in these urban settings. In London boroughs with a greater percentage coverage of green space, a higher number of COVID-19 were recorded (p = 0.001; figure 1, a1); in contrast, access to private gardens was found to have no significant effect on the number of cases (p = 0.85; figure 1, b1). In both cases, we controlled for population size and area; population size was consistently found to have a significant effect on the number of cases (p =< 0.04), but area only had an effect in London boroughs (p = 0.002) and not in other UTLAs (p = 0.28). Finally, our analysis showed that London boroughs with better access to nature had fewer fines (p = 0.05, figure 2), however and larger sample size would lead to more robust conclusions about this relationship.
 </p>
-
 
 # Our Digital Solution - GreenSpace Mobile Application
 [<img align = "right" width = "220" height = "330" src="https://github.com/VictoriaHussey/FreshAndFurious_NERCHackathon3_GreenCities/blob/master/Images/Final.png">](https://github.com/VictoriaHussey/FreshAndFurious_NERCHackathon3_GreenCities/blob/master/Our%20Digital%20Solution%20-%20Green%20Space%20App/20200701_UserRequirementsSpecification.docx)
@@ -167,6 +164,5 @@ The following datasets are provided in the [Datasets](/Supplementary%20Materials
 * R Core Team (2020). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. [Click here to access](https://www.R-project.org/.)
 * Wickham Hadley, Romain François, Lionel Henry and Kirill Müller (2020). dplyr: A Grammar of Data Manipulation. R package version 1.0.0. [Click here to access](https://CRAN.R-project.org/package=dplyr.)
 * Bolker Ben and R Development Core Team (2020). bbmle: Tools for General Maximum Likelihood Estimation. R package version 1.0.23.1. [Click here to access](https://CRAN.R-project.org/package=bbmle.)
-
 
 ![Banner](https://github.com/VictoriaHussey/FreshAndFurious_NERCHackathon3_GreenCities/blob/master/Images/20200701_Banner_GW4_1000x84.png)
