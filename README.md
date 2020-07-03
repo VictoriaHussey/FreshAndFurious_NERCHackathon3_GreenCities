@@ -50,7 +50,7 @@ Private gardens were not included in this measure, minimising correlation betwee
 
 ## Results
 <p align = "center">
- <img src = "https://github.com/VictoriaHussey/FreshAndFurious_NERCHackathon3_GreenCities/blob/master/Supplementary%20Materials/Plots/Hackathon%20fig1.png">
+ <img src = "https://github.com/VictoriaHussey/FreshAndFurious_NERCHackathon3_GreenCities/blob/master/Supplementary%20Materials/Plots/Hackathon%20figure1.png">
  </p>
 
 ###### Figure 1: Total number of COVID-19 cases in each London borough (panels a1 and b1) and non-London UTLAs (panels a2 and b2) against green space as a percentage of area (panels a1 and a2) and the percentage of the population with access to a private garden (panels b1 and b2). Circles represent each borough/UTLA, with their size representing the population size. Shaded area shows the 95% confidence interval.
