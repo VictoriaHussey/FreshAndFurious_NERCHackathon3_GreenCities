@@ -46,6 +46,8 @@ All analyses were conducted in R version 4.0.0 (R Core Team, 2020). Analysis was
 * public parks and gardens. 
  
 Private gardens were not included in this measure, minimising correlation between our chosen explanatory variables. 
+
+Additionally, we conducted an analysis into the number of police fines issued for breaching of lockdown measures in the twelve Basic Command Units (BCUs) across London. We aimed to investigate whether a lack of green space was a driver in restriction resistance and therefore increased risk of COVID-19 spread. A GAM was used with the number of fines per million people as the dependent variable, and the number of homes with good access to nature as the explanatory variable.
 </p>
 
 ## Results
@@ -62,9 +64,8 @@ Private gardens were not included in this measure, minimising correlation betwee
 ###### Figure 2: Total number fines given due to the breaking of lockdown rules against the number of homes with good access to nature. Circles represent each borough/UTLA, with their size representing the population size. Shaded area shows the 95% confidence interval.
 
 <p align = "justify">
-In UTLAs across the UK (excluding London) we found that while controlling for the effects of population size (p < 0.001) and area (p = 0.28), areas where a higher proportion of people have access to private gardens reported fewer COVID-19 cases (p = 0.04; figure 1, b2). Conversely, the mean percentage cover of green space did not have a significant effect (p = 0.09; figure 1, a2) in these urban settings. In London boroughs with a greater percentage coverage of green space, a higher number of COVID-19 were recorded (p = 0.001; figure 1, a1); in contrast, access to private gardens was found to have no significant effect on the number of cases (p = 0.85; figure 1, b1). In both cases, we controlled for population size and area; population size was consistently found to have a significant effect on the number of cases (p =< 0.04), but area only had an effect in London boroughs (p = 0.002) and not in other UTLAs (p = 0.28).
+In UTLAs across the UK (excluding London) we found that while controlling for the effects of population size (p < 0.001) and area (p = 0.28), areas where a higher proportion of people have access to private gardens reported fewer COVID-19 cases (p = 0.04; figure 1, b2). Conversely, the mean percentage cover of green space did not have a significant effect (p = 0.09; figure 1, a2) in these urban settings. In London boroughs with a greater percentage coverage of green space, a higher number of COVID-19 were recorded (p = 0.001; figure 1, a1); in contrast, access to private gardens was found to have no significant effect on the number of cases (p = 0.85; figure 1, b1). In both cases, we controlled for population size and area; population size was consistently found to have a significant effect on the number of cases (p =< 0.04), but area only had an effect in London boroughs (p = 0.002) and not in other UTLAs (p = 0.28). Finally, our analysis showed that areas with better access to nature had fewer fines (p = 0.05, figure 2), however and larger sample size would lead to more robust conclusions about this relationship.
 </p>
-
 
 
 # Our Digital Solution - GreenSpace Mobile Application
