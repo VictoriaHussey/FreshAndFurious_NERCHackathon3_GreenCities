@@ -49,6 +49,12 @@ Private gardens were not included in this measure, minimising correlation betwee
 </p>
 
 ## Results
+<p float = "middle">
+ <img src = "https://github.com/VictoriaHussey/FreshAndFurious_NERCHackathon3_GreenCities/blob/master/Supplementary%20Materials/Plots/Hackathon%20fig1.png" width = "450">
+ <img src = "https://github.com/VictoriaHussey/FreshAndFurious_NERCHackathon3_GreenCities/blob/master/Supplementary%20Materials/Plots/Fines_access%20to%20nature.png" width = "455">
+</p>
+
+
 <p align = "justify">
 In UTLAs across the UK (excluding London) we found that while controlling for the effects of population size (P < 0.001) and area (P = 0.28), areas where a higher proportion of people have access to private gardens had fewer COVID-19 cases (P = 0.04). While the mean percentage cover of green space did not have a significant effect (P = 0.09). In London however, while controlling for the effects of population size (P = 0.04) and area (P = 0.002), UTLAs with a higher percentage coverage of green space had a higher number of COVID-19 cases (P = 0.001). While the proportion of people in London UTLAs with access to private gardens did not affect COVID-19 case numbers (P = 0.85).
 </p>                                                                                                                      
