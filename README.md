@@ -24,12 +24,12 @@ Click [here] to watch our video abstract on YouTube.
 # Introduction
 
 <p align="justify">
-The 2020 COVID-19 pandemic has caused countries across the world to implement unprecendented measures of social distancing to reduce the rate of transmission of COVID-19. Such measures include school closures and national lockdowns to urge people to stay at home to reduce day-to-day physical contact between individuals. This is widely regarded as one of the most effective ways to reduce the transmission of COVID-19 (Gu et al., 2020). Social distancing has disrupted the lives of entire populations (Caria et al., 2020), impacting on the mental wellbeing of many people, especially among those living in densely-populated urban settings with limited green public spaces.
+The 2020 COVID-19 pandemic has caused countries across the world to implement unprecendented measures of social distancing to reduce the rate of COVID-19 transmission. Such measures include school closures and national lockdowns to urge people to stay at home and thus reduce day-to-day physical contact between individuals. This is widely regarded as one of the most effective ways to reduce COVID-19 transmission (Gu et al., 2020). Social distancing has disrupted the lives across the world (Caria et al., 2020), impacting on the mental wellbeing of many people, especially among those living in densely-populated urban settings with limited green public spaces.
 The urban environment holds great influence over health, both directly and indirectly, through its impact on health-related behaviours (Bixby et al., 2015). The increase in chronic disease risk factors, for example, has been linked with urban living due to changing socio-economic, lifestyle and environmental factors (Allender et al., 2011). For this reason, disease prevention strategies that target the environment rather than individuals have gained support in  recent years (Department of Health, 2004 & 2011).
 </p>
 
 <p align="justify">
-Urban green space has been proven effective in improving public health in the contemporary background of global urbanisation (Liu et al., 2019). Urban green space has therefore become an effective tool for planning healthy cities, offering not only critical ecosystem services but also significant physical and mental benefits (Shanahan et al., 2015). Furthermore, this research aims to provide a spatio-temporal overview of green space and the global pandemic of COVID-19, to identify if an increase in urban green space can reduce the transmission of COVID-19.
+Urban green space has been proven effective in improving public health in the contemporary background of global urbanisation (Liu et al., 2019). Urban green space has therefore become an efficient tool for planning healthy cities, offering not only critical ecosystem services but also significant physical and mental benefits (Shanahan et al., 2015). Furthermore, this research aims to provide a spatio-temporal overview of green space and the global pandemic of COVID-19, to identify if an increase in urban green space can reduce the transmission of COVID-19.
 </p>
 
 
@@ -86,7 +86,7 @@ In UTLAs across the UK (excluding London) we found that while controlling for th
 [<img align = "right" width = "220" height = "330" src="https://github.com/VictoriaHussey/FreshAndFurious_NERCHackathon3_GreenCities/blob/master/Images/Final.png">](https://github.com/VictoriaHussey/FreshAndFurious_NERCHackathon3_GreenCities/blob/master/Our%20Digital%20Solution%20-%20Green%20Space%20App/20200701_UserRequirementsSpecification.docx)
 
 <p align = "justify">
-Nature provides key ecosystem services that promote wellbeing and may modulate the spread of disease. Within urban environments, green spaces have diminished with time (Colding et al., 2020), despite being critical in times of crisis such as COVID-19 to alleviate the mental and physical burdens that arise with self-isolation (Samuelsson et al., 2020). Fewer, smaller private gardens and limited access to public green spaces in cities may result in crowding within available spaces. Crowded spaces can become hotspots of COVID-19 contagion (Lall et al., 2020). It is therefore crucial to minimise the risks whilst maximising the benefits from natural environments. We propose better planning and expansion of urban green spaces to increase resilience to disease, as well as a digital solution, the GreenSpace app, to ensure safe use of outdoor space to limit crowding. Digital solutions with similar concepts have been used to reduce crowding on public transport and inform users of delays (Montreal Smart City, 2017). Other examples have shown how digital tools can be used to monitor accessibility to public green spaces and inform better planning (Van Herzele & Wiedemann, 2003).
+Nature provides key ecosystem services that promote wellbeing and may modulate the spread of disease. Within urban environments, green spaces have diminished with time (Colding et al., 2020), despite being critical in times of crisis such as COVID-19 to alleviate the mental and physical burdens that arise with self-isolation (Samuelsson et al., 2020). Fewer, smaller private gardens and limited access to public green spaces in cities may result in crowding within available spaces. Crowded spaces can become hotspots of COVID-19 contagion (Lall et al., 2020). It is therefore crucial to minimise the risks whilst maximising the known benefits of natural environments. We propose better planning and expansion of urban green spaces to increase resilience to disease, as well as a digital solution, the GreenSpace app, to ensure safe use of outdoor space to prevent overcrowding. Digital solutions with similar concepts have been used to reduce crowding on public transport and inform users of delays (Montreal Smart City, 2017). Other examples have shown how digital tools can be used to monitor accessibility to public green spaces and inform better planning (Van Herzele & Wiedemann, 2003).
 </p>
 
 ## Mobile Application Requirement Specification
@@ -98,7 +98,7 @@ We have created a Requirement Specification for our mobile application *GreenSpa
 
 ## Future Work
 <p align = "justify">
-Improved physical health associated with living near green spaces may reduce risk of comorbidities and help to improve immune system function of infected individuals. Including data on fatalities may reveal these additional benefits but this was not within the current scope of research. Furthermore, health is associated with socioeconomic status and air pollution, both of which are known to be factors that affect the severity of COVID-19. While crowded housing remains to be an issue in the transmission of disease amongst low-income communities, proximity to green spaces has been shown to almost halve health inequalities (Marmot, 2010), which may act as a significant buffer against death. Future work would benefit from the inclusion of such data.
+Improved physical health associated with living near green spaces may reduce risk of comorbidities and help to improve immune system function of infected individuals. Including data on fatalities may reveal these additional benefits but this was not within the current scope of research. Furthermore, health is associated with socioeconomic status and air pollution, both of which are known to be factors that affect the severity of COVID-19. While crowded housing remains to be an issue in the transmission of disease amongst low-income communities, proximity to green spaces has been shown to almost halve health inequalities (Marmot, 2010), which may act as a significant buffer against mortality. Future work would benefit from the inclusion of such data.
 </p>
 
 ## Conclusion
@@ -130,7 +130,7 @@ The team comprises of 10 PhD researchers from the [GW4<sup>+</sup> FRESH CDT](ht
 
 
 # References
-A full reference list can be found by clicking [here](/References/References.docx)
+A full reference list can be accessed by clicking [here](/References/References.docx)
 
 
 # Data Sources
