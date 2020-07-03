@@ -17,7 +17,7 @@ The urban environment holds great influence over health, both directly and indir
 </p>
 
 <p align="justify">
-Urban greenspace has been proven effective in improving public health in the contemporary background of global urbanisation (Liu et al., 2019). Urban greenspace has therefore become an effective tool for planning healthy cities, offering not only critical ecosystem services but also significant physical and mental benefits (Shanahan et al., 2015). Furthermore, this research aims to provide a spatio-temporal overview of greenspace and the global pandemic of COVID-19, to identify if an increase in urban greenspace can reduce the transmission of COVID-19.
+Urban green space has been proven effective in improving public health in the contemporary background of global urbanisation (Liu et al., 2019). Urban green space has therefore become an effective tool for planning healthy cities, offering not only critical ecosystem services but also significant physical and mental benefits (Shanahan et al., 2015). Furthermore, this research aims to provide a spatio-temporal overview of green space and the global pandemic of COVID-19, to identify if an increase in urban green space can reduce the transmission of COVID-19.
 </p>
 
 
@@ -53,7 +53,7 @@ Private gardens were not included in this measure, minimising correlation betwee
  <img src = "https://github.com/VictoriaHussey/FreshAndFurious_NERCHackathon3_GreenCities/blob/master/Supplementary%20Materials/Plots/Hackathon%20fig1.png">
  </p>
 
-###### Figure 1: Total number of COVID-19 cases in each London borough (panels a1 and b1) and non-London UTLAs (panels a2 and b2) against greenspace as a percentage of area (panels a1 and a2) and the percentage of the population with access to a private garden (panels b1 and b2). Circles represent each borough/UTLA, with their size representing the population size. Shaded area shows the 95% confidence interval.
+###### Figure 1: Total number of COVID-19 cases in each London borough (panels a1 and b1) and non-London UTLAs (panels a2 and b2) against green space as a percentage of area (panels a1 and a2) and the percentage of the population with access to a private garden (panels b1 and b2). Circles represent each borough/UTLA, with their size representing the population size. Shaded area shows the 95% confidence interval.
 
 <p align = "center"> 
  <img src = "https://github.com/VictoriaHussey/FreshAndFurious_NERCHackathon3_GreenCities/blob/master/Supplementary%20Materials/Plots/Fines_access%20to%20nature.png">
