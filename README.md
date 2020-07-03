@@ -70,19 +70,19 @@ This section will provide a brief conclusion to the report...
 
 <img align = "right" width = "300" height = "200" src="https://github.com/VictoriaHussey/FreshAndFurious_NERCHackathon3_GreenCities/blob/master/Images/FRESH%20Logo.jpg">
 
-The team comprises of 10 PhD researchers from the GW4<sup>+</sup> FRESH CDT:
+The team comprises of 10 PhD researchers from the [GW4<sup>+</sup> FRESH CDT](https://www.gw4fresh.co.uk/):
 
 ### University of Bath
-Franciszek Bydalek, Joshua Rainbow
+[Franciszek Bydalek](https://researchportal.bath.ac.uk/en/persons/franciszek-bydalek), [Joshua Rainbow](https://researchportal.bath.ac.uk/en/persons/josh-rainbow)
 
 ### University of Bristol: 
-Rory Burford, Toby Champneys, Elliot Druce, Jack Greenhalgh, Victoria Hussey
+[Rory Burford](http://www.bristol.ac.uk/geography/people/rory-j-burford/index.html), [Toby Champneys](https://research-information.bris.ac.uk/en/persons/toby-s-champneys), [Elliot Druce](http://www.bristol.ac.uk/geography/people/elliot-j-druce/overview.html), [Jack Greenhalgh](https://research-information.bris.ac.uk/en/persons/jack-greenhalgh), [Victoria Hussey](http://www.bristol.ac.uk/geography/people/victoria-l-hussey/index.html)
 
 ### Cardiff University: 
-Annalise Hooper, Fiona Joyce
+[Annalise Hooper](https://www.cardiff.ac.uk/people/research-students/view/1515958-hooper-annalise), [Fiona Joyce](https://www.cardiff.ac.uk/people/research-students/view/1322399-)
 
 ### University of Exeter: 
-Luke Lear
+[Luke Lear](http://biosciences.exeter.ac.uk/staff/profile/index.php?web_id=Luke_Lear)
 
 
 # References
@@ -95,7 +95,7 @@ Our analysis focused on the most populous UTLA’s England (Upper Tier Local Aut
 </p>
 
 The following datasets are provided in the [Datasets](/Supplementary%20Materials/Datasets) subfolder:
-* Total coronavirus cases per UTLA – [Coronavirus_data](/Supplementary%20Materials/Datasets/Coronavirus_data.csv)
+* Total coronavirus cases per UTLA – [Coronavirus data](/Supplementary%20Materials/Datasets/Coronavirus_data.csv)
 * Metadata including population and land area data for the 68 chosen UTLA’s – [Metadata](/Supplementary%20Materials/Dataset/metadata.csv)
 * Access to private gardens and parks data - [Park access](Supplementary%20Materials/Datasets/Park_access.csv)
 * Green space percentage cover data – [Greenspace](/Supplementary%20Materials/Datasets/Greenspace.csv)
