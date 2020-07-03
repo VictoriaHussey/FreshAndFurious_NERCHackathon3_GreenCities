@@ -129,7 +129,7 @@ Our analysis focused on the most populous UTLAs in England. A total of 68 UTLAs 
 
 To assess the impact of access to nature on the number of fines handed out during lockdown in London, we used two publicly available datasets:
 * [the access to Public Open Space data from London Datastore](https://data.london.gov.uk/dataset/access-public-open-space-and-nature-ward) 
-* [the final FNP arrest analysis report from the metropolitan police](http://news.met.police.uk/documents/final-fpn-arrest-analysis-report-96756).
+* [the final FNP arrest analysis report from the Metropolitan Police](http://news.met.police.uk/documents/final-fpn-arrest-analysis-report-96756).
 
 Collected datasets were compiled into single dataset matrix using R 4.0.0 (R Core Team, 2020), the dplyr (v1.0.0, Wickham et al, 2020) and the bbmle (v1.0.23.1, Bolker et al, 2020) packages. 
 
