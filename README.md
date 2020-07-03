@@ -50,8 +50,8 @@ Private gardens were not included in this measure, minimising correlation betwee
 
 ## Results
 <p float = "middle">
- <img src = "https://github.com/VictoriaHussey/FreshAndFurious_NERCHackathon3_GreenCities/blob/master/Supplementary%20Materials/Plots/Hackathon%20fig1.png" width = "450">
- <img src = "https://github.com/VictoriaHussey/FreshAndFurious_NERCHackathon3_GreenCities/blob/master/Supplementary%20Materials/Plots/Fines_access%20to%20nature.png" width = "455">
+ <img src = "https://github.com/VictoriaHussey/FreshAndFurious_NERCHackathon3_GreenCities/blob/master/Supplementary%20Materials/Plots/Hackathon%20fig1.png" width = "350">
+ <img src = "https://github.com/VictoriaHussey/FreshAndFurious_NERCHackathon3_GreenCities/blob/master/Supplementary%20Materials/Plots/Fines_access%20to%20nature.png" width = "355">
 </p>
 
 
