@@ -154,7 +154,12 @@ The following datasets are provided in the [Datasets](/Supplementary%20Materials
 * Metadata including population and land area data for the 68 chosen UTLA’s – [Metadata](/Supplementary%20Materials/Datasets/metadata.csv)
 * Access to private gardens and parks data - [Park access](Supplementary%20Materials/Datasets/Park_access.csv)
 * Green space percentage cover data – [Greenspace](/Supplementary%20Materials/Datasets/Greenspace.csv)
-* The final datasets:
+* Fines awarded in London - [Fines](/Supplementary%20Materials/Datasets/Fines.csv)
+* Private outdoor space raw data, collected by the ONS - [Private Outdoor Space](/Supplementary%20Materials/Datasets/osprivateoutdoorspacereferencetables.xlsx)
+* Public green space raw data, collected by the ONS - [Public Green Space](/Supplementary%20Materials/Datasets/ospublicgreenspacereferencetables.xlsx)
+* Predicted % green space coverage (by Ward) - [UK Ward Greenspace] - (/Supplementary%20Materials/Datasets/uk_ward_greenspace.xls)
+* Mid-year (2019-2020) population estimates, collected by the ONS - [Mid-Year Population Estimates](/Supplementary%20Materials/Datasets/ukmidyearestimates20192020ladcodes.xls)
+* The final datasets used in our analysis:
   * [Final dataset for London](/Supplementary%20Materials/Datasets/Final_Data_London.csv)
   * [Final dataset excluding London](/Supplementary%20Materials/Datasets/Final_Data_Outside_London.csv)
 
